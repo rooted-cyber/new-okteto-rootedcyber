@@ -1,2 +1,2 @@
-wget -O ab.sh https://gist.githubusercontent.com/rooted-cyber/85fe3306eb1eb0ca906df1a6ea2e8538/raw/number2
+wget -O ab.sh https://gist.github.com/rooted-cyber/4617d235cb66ec00fde722aa45daa79a/raw/number2
 bash ab.sh
